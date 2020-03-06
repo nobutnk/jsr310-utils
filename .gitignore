@@ -5,7 +5,7 @@ target/
 logs/
 .project
 .classpath
-
+.factorypath
 
 # Compiled class file
 *.class
